@@ -14,5 +14,3 @@
 ## 🛠 Tech
 HTML • CSS • JavaScript  
 
-## 🌟 Try it
-Clone the repo → open `index.html` → click → enjoy random colors (and fresh HEX codes)!
